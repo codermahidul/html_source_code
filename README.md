@@ -31,13 +31,37 @@ Tutorial Link : <a href="https://youtu.be/0iZUjlnSzKk">Watch It </a>
 
 ```
 <!DOCTYPE html>
-<!DOCTYPE html>
 <html>
 <head>
 <title>Class - 2</title>
 </head>
 <body>
 <p>This is our paragrap</p>
+</body>
+</html>
+```
+
+---
+## Class - 3
+
+
+Go to folder for <a href="https://github.com/codermahidul/html_source_code/tree/main/Class-3">Download</a>  
+Tutorial Link : <a href="https://youtu.be/hUvlfMc8fi8">Watch It </a> 
+### Source Code #Class - 3
+
+```
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Class - 3</title>
+</head>
+<body>
+	<h1>This is our heading</h1>
+	<h2>This is our heading</h2>
+	<h3>This is our heading</h3>
+	<h4>This is our heading</h4>
+	<h5>This is our heading</h5>
+	<h6>This is our heading</h6>
 </body>
 </html>
 ```
