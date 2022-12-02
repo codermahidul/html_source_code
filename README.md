@@ -3,12 +3,12 @@
 In this video series I have taught you HTML. Follow this <a href="https://www.youtube.com/watch?v=DH_XzBvloAw&list=PL4q4cTWDNmcXQSULm2nrBpb7d4UU2T7pt">playlist</a> to learn complete HTML. Also the source codes are given on GitHub. If you like it please subscribe <a href="https://www.youtube.com/@MahidulOfficial">Mahidul-official</a> channel.  
 
 ## Source Code:
-<a href="https://github.com/codermahidul/html_source_code/edit/main/README.md#source-code-class---1">#Class - 1 </a>  
-<a href="https://github.com/codermahidul/html_source_code/edit/main/README.md#source-code-class---2">#Class - 2 </a>  
-<a href="https://github.com/codermahidul/html_source_code/edit/main/README.md#source-code-class---3">#Class - 3 </a>  
-<a href="https://github.com/codermahidul/html_source_code/edit/main/README.md#source-code-class---4">#Class - 4 </a>  
-<a href="https://github.com/codermahidul/html_source_code/edit/main/README.md#source-code-class---5">#Class - 5 </a>  
-<a href="https://github.com/codermahidul/html_source_code/edit/main/README.md#source-code-class---6">#Class - 6 </a>
+<a href="#source-code-class---1">#Class - 1 </a>  
+<a href="#source-code-class---2">#Class - 2 </a>  
+<a href="#source-code-class---3">#Class - 3 </a>  
+<a href="#source-code-class---4">#Class - 4 </a>  
+<a href="#source-code-class---5">#Class - 5 </a>  
+<a href="#source-code-class---6">#Class - 6 </a>
 
 ---
 ## Class - 1
