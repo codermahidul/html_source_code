@@ -15,7 +15,7 @@ In this video series I have taught you HTML. Follow this <a href="https://www.yo
 
 
 Go to folder for <a href="https://github.com/codermahidul/html_source_code/tree/main/Class-1">Download</a>  
-Tutorial Link : <a href="https://youtu.be/DH_XzBvloAw?list=PL4q4cTWDNmcXQSULm2nrBpb7d4UU2T7pt">Watch It </a> 
+Tutorial Link : <a href="https://youtu.be/7TtVJZxWPAI">Watch It </a> 
 ### Source Code #Class - 1
 
 ```
@@ -34,7 +34,7 @@ Tutorial Link : <a href="https://youtu.be/DH_XzBvloAw?list=PL4q4cTWDNmcXQSULm2nr
 
 
 Go to folder for <a href="https://github.com/codermahidul/html_source_code/tree/main/Class-2">Download</a>  
-Tutorial Link : <a href="https://youtu.be/0iZUjlnSzKk">Watch It </a> 
+Tutorial Link : <a href="https://youtu.be/nOMQqC8mdQE">Watch It </a> 
 ### Source Code #Class - 2
 
 ```
@@ -54,7 +54,7 @@ Tutorial Link : <a href="https://youtu.be/0iZUjlnSzKk">Watch It </a>
 
 
 Go to folder for <a href="https://github.com/codermahidul/html_source_code/tree/main/Class-3">Download</a>  
-Tutorial Link : <a href="https://youtu.be/hUvlfMc8fi8">Watch It </a> 
+Tutorial Link : <a href="https://youtu.be/-ypuEPSh9yw">Watch It </a> 
 ### Source Code #Class - 3
 
 ```
@@ -80,7 +80,7 @@ Tutorial Link : <a href="https://youtu.be/hUvlfMc8fi8">Watch It </a>
 
 
 Go to folder for <a href="https://github.com/codermahidul/html_source_code/tree/main/Class-4">Download</a>  
-Tutorial Link : <a href="https://youtu.be/JSCM62HjNQQ">Watch It </a> 
+Tutorial Link : <a href="https://youtu.be/7UjKQmN8gZA">Watch It </a> 
 ### Source Code #Class - 4
 
 ```
@@ -118,7 +118,7 @@ Tutorial Link : <a href="https://youtu.be/JSCM62HjNQQ">Watch It </a>
 
 
 Go to folder for <a href="https://github.com/codermahidul/html_source_code/tree/main/Class-5">Download</a>  
-Tutorial Link : <a href="https://youtu.be/JSCM62HjNQQ">Watch It </a> 
+Tutorial Link : <a href="https://youtu.be/T-djdN8jSQk">Watch It </a> 
 ### Source Code #Class - 5
 
 ```
@@ -142,7 +142,7 @@ Tutorial Link : <a href="https://youtu.be/JSCM62HjNQQ">Watch It </a>
 
 
 Go to folder for <a href="https://github.com/codermahidul/html_source_code/tree/main/Class-6">Download</a>  
-Tutorial Link : <a href="https://youtu.be/JSCM62HjNQQ">Watch It </a> 
+Tutorial Link : <a href="https://youtu.be/brDoiJ4l_1A">Watch It </a> 
 ### Source Code #Class - 6
 
 ```
