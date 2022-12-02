@@ -6,7 +6,9 @@ In this video series I have taught you HTML. Follow this <a href="https://www.yo
 <a href="https://github.com/codermahidul/html_source_code/edit/main/README.md#source-code-class---1">#Class - 1 </a>  
 <a href="https://github.com/codermahidul/html_source_code/edit/main/README.md#source-code-class---2">#Class - 2 </a>  
 <a href="https://github.com/codermahidul/html_source_code/edit/main/README.md#source-code-class---3">#Class - 3 </a>  
-<a href="https://github.com/codermahidul/html_source_code/edit/main/README.md#source-code-class---4">#Class - 4 </a>
+<a href="https://github.com/codermahidul/html_source_code/edit/main/README.md#source-code-class---4">#Class - 4 </a>  
+<a href="https://github.com/codermahidul/html_source_code/edit/main/README.md#source-code-class---5">#Class - 5 </a>  
+<a href="https://github.com/codermahidul/html_source_code/edit/main/README.md#source-code-class---6">#Class - 6 </a>
 
 ---
 ## Class - 1
@@ -106,6 +108,56 @@ Tutorial Link : <a href="https://youtu.be/JSCM62HjNQQ">Watch It </a>
 	
 	hree</h3?
 	
+	</body>
+</html>
+```
+
+
+---
+## Class - 5
+
+
+Go to folder for <a href="https://github.com/codermahidul/html_source_code/tree/main/Class-5">Download</a>  
+Tutorial Link : <a href="https://youtu.be/JSCM62HjNQQ">Watch It </a> 
+### Source Code #Class - 5
+
+```
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Class - 5 </title>
+	</head>
+	<body>
+	<p style="color:red;background:yellow">this is our paragrap</p>
+	<h1 style="color:blue">This is our heading</h1>
+	<h1 style="background:blue;color:white">This is our heading</h1>
+	</body>
+</html>
+```
+
+
+
+---
+## Class - 6
+
+
+Go to folder for <a href="https://github.com/codermahidul/html_source_code/tree/main/Class-6">Download</a>  
+Tutorial Link : <a href="https://youtu.be/JSCM62HjNQQ">Watch It </a> 
+### Source Code #Class - 6
+
+```
+<DOCTYPE html>
+<html>
+	<head>
+		<title>Class - 6 </title>
+	</head>
+	<body>
+		<p><ins>Lorem ipsum dolor sit amet</ins> consectetur adipiscing elit. Fusce nec risus lobortis suscipit elit eu, scelerisque quam. Suspendisse a mauris sed metus egestas sagittis. Fusce a odio feugiat. </p>
+
+		<br>
+		<br>
+		<h1>H<sub>2</sub>O</h1>
+		<h1>H<sup>2</sup>O</h1>
 	</body>
 </html>
 ```
