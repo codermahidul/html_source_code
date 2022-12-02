@@ -19,3 +19,25 @@ Tutorial Link : <a href="https://youtu.be/DH_XzBvloAw?list=PL4q4cTWDNmcXQSULm2nr
 </body>
 </html>
 ```
+
+
+---
+## Class - 2
+
+
+Go to folder for <a href="https://github.com/codermahidul/html_source_code/tree/main/Class-2">Download</a>  
+Tutorial Link : <a href="https://youtu.be/0iZUjlnSzKk">Watch It </a> 
+### Source Code #Class - 2
+
+```
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+<title>Class - 2</title>
+</head>
+<body>
+<p>This is our paragrap</p>
+</body>
+</html>
+```
