@@ -1,4 +1,7 @@
-# HTML Series Video Source Code
+<p align="center">
+ <img width="100px" src="https://i.ibb.co/y5m5Yn8/html-5.png" align="center" alt="html logo" />
+ <h2 align="center">HTML Series Video Source Code</h2>
+</p>  
 
 In this video series I have taught you HTML. Follow this <a href="https://www.youtube.com/watch?v=DH_XzBvloAw&list=PL4q4cTWDNmcXQSULm2nrBpb7d4UU2T7pt">playlist</a> to learn complete HTML. Also the source codes are given on GitHub. If you like it please subscribe <a href="https://www.youtube.com/@MahidulOfficial">Mahidul-official</a> channel.  
 
