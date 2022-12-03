@@ -5,6 +5,47 @@
 
 In this video series I have taught you HTML. Follow this <a href="https://www.youtube.com/watch?v=DH_XzBvloAw&list=PL4q4cTWDNmcXQSULm2nrBpb7d4UU2T7pt">playlist</a> to learn complete HTML. Also the source codes are given on GitHub. If you like it please subscribe <a href="https://www.youtube.com/@MahidulOfficial">Mahidul-official</a> channel.  
 
+---
+# HTML Tag List
+
+## Basic Tags
+
+| Tag Name | Tag |  Description |
+| --------- | --------- | ---------- | 
+| Doctype | !DOCTYPE html |  Represents Document Type |
+| HTML | html | Root Element of HTML Page |
+| Head | head   | Contain Page Information |
+| Title | title  | Title of the Page |
+
+
+## Layout
+
+| Tag Name | Tag |  Description |
+| --------- | --------- | ---------- | 
+| Header | header |  Header of Webpage |
+| Navigation | nav | Set of navigation Links |
+| Section | section   | Defines Section in Document |
+| Footer | footer  | Footer for webpage |
+
+
+
+## Document Structure 
+
+| Tag Name | Tag |  Description |
+| --------- | --------- | ---------- | 
+| Heading - 1 | h1 |  Heading 1 |
+| Heading - 2 | h2 |  Heading 2 |
+| Heading - 3 | h3 |  Heading 3 |
+| Heading - 4 | h4 |  Heading 4 |
+| Heading - 5 | h5 |  Heading 5 |
+| Heading - 6 | h6 |  Heading 6 |
+| Paragraph | p | Paragraph fo Webpage |
+| Division | div   | Division in HTML Webpage |
+| Line Break | br | Single Line Break |
+| Sapn | span | Inline Section |
+
+
+
 ## Source Code:
 <a href="#source-code-class---1">#Class - 1 </a>  
 <a href="#source-code-class---2">#Class - 2 </a>  
